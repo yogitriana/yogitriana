@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yogitriana
-- 👀 I’m interested in C, Java
-- 🌱 I’m currently learning C, Java
+- 👀 I’m interested in C, Java, MQL4, Low Level Programming
+- 🌱 I’m currently learning C, Java, MQL4, CircuitMaker
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me yogi.triana@gmail.com
 
